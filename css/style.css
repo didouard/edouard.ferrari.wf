@@ -7990,7 +7990,9 @@ header {
     z-index: 0;
     line-height: 1.5; }
   .services .media-body .heading {
-    font-size: 22px; }
+      font-size: 22px; }
+  .heading-header {
+      font-size: 30px; }
 
 .form-group label {
   color: #fff; }
