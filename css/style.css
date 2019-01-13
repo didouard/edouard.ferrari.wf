@@ -7928,14 +7928,16 @@ header {
   .exp-wrap .desc, .exp-wrap .year {
     float: left; }
   .exp-wrap .desc {
-    width: calc(100% - 150px); }
-    .exp-wrap .desc h4 span {
+      width: calc(100% - 200px); }
+  .exp-wrap .paragraph {
+      width: calc(100% - 150px); }
+  .exp-wrap .desc h4 span {
       color: #8c8c8c;
       font-weight: 300; }
-    .exp-wrap .desc .location {
+  .exp-wrap .desc .location {
       margin-bottom: 0; }
   .exp-wrap .year {
-    width: 150px; }
+    width: 200px; }
 
 .progress-wrap {
   margin-bottom: 30px; }
