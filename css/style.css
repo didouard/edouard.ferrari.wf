@@ -7930,7 +7930,7 @@ header {
   .exp-wrap .desc {
       width: calc(100% - 200px); }
   .exp-wrap .paragraph {
-      width: calc(100% - 150px); }
+      width: calc(100% - 200px); }
   .exp-wrap .desc h4 span {
       color: #8c8c8c;
       font-weight: 300; }
