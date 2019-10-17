@@ -7896,7 +7896,6 @@ header {
     top: -80px;
     left: -50px;
     right: 0;
-    bottom: 0;
     font-weight: 700 !important;
     color: rgba(255, 255, 255, 0.08);
     text-transform: uppercase; }
@@ -8096,7 +8095,9 @@ textarea.form-control {
   border-radius: 50%; }
 
 .ftco-section {
-  padding: 7em 0; }
+    padding: 7em 0;
+    overflow: hidden;
+}
 
 .ftco-bg-dark {
   background: #3c312e; }
